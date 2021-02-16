@@ -1,6 +1,7 @@
 # desafio-orange-talents
 
-Essa é minha versão para o desafio proposto pela Orange Talents 
+Essa é minha versão para o desafio proposto pela Orange Talents. 
+
 É um projeto Maven que utiliza o Spring Framework.
 
 Contexto:
